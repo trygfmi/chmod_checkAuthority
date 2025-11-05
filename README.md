@@ -36,7 +36,7 @@ cat ./start_chmod_checkAuthority.sh
 chmod 755 ./start_chmod_checkAuthority.sh
 ./start_chmod_checkAuthority.sh #rwxr-xr-x 755
 chmod -x ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rw-r-xr-x 655</code></pre>
+./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
 
 
 
@@ -63,7 +63,7 @@ cat ./start_chmod_checkAuthority.sh
 chmod 755 ./start_chmod_checkAuthority.sh
 ./start_chmod_checkAuthority.sh #rwxr-xr-x 755
 chmod -x ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rw-r-xr-x 655</code></pre>
+./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
 
 
 
@@ -89,7 +89,7 @@ cat ./start_chmod_checkAuthority.sh
 chmod 755 ./start_chmod_checkAuthority.sh
 ./start_chmod_checkAuthority.sh #rwxr-xr-x 755
 chmod -x ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rw-r-xr-x 655</code></pre>
+./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
 
 
 
@@ -162,12 +162,12 @@ cat ./start_chmod_checkAuthority.sh
 chmod 755 ./start_chmod_checkAuthority.sh
 ./start_chmod_checkAuthority.sh #rwxr-xr-x 755
 chmod -x ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rw-r-xr-x 655</code></pre>
+./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello chmod command world<br>bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre></p>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello chmod command world<br>bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre>
 </details>
 </details>
 
@@ -240,12 +240,12 @@ cat ./start_chmod_checkAuthority.sh
 chmod 755 ./start_chmod_checkAuthority.sh
 ./start_chmod_checkAuthority.sh #rwxr-xr-x 755
 chmod -x ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rw-r-xr-x 655</code></pre>
+./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello chmod command world<br>bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre></p>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello chmod command world<br>bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre>
 </details>
 </details>
 
@@ -335,12 +335,12 @@ cat ./start_chmod_checkAuthority.sh
 chmod 755 ./start_chmod_checkAuthority.sh
 ./start_chmod_checkAuthority.sh #rwxr-xr-x 755
 chmod -x ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rw-r-xr-x 655</code></pre>
+./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello chmod command world<br>bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre></p>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello chmod command world<br>bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre>
 </details>
 
 
@@ -354,7 +354,7 @@ chmod -x ./start_chmod_checkAuthority.sh
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>不可</code></pre></p>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>不可</code></pre>
 </details>
 </details>
 
