@@ -29,14 +29,7 @@
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/chmod_checkAuthority
-cd chmod_checkAuthority
-ls -l
-cat ./start_chmod_checkAuthority.sh
-chmod 755 ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rwxr-xr-x 755
-chmod -x ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/chmod_checkAuthoritycd chmod_checkAuthorityls -lcat ./start_chmod_checkAuthority.shchmod 755 ./start_chmod_checkAuthority.sh./start_chmod_checkAuthority.sh #rwxr-xr-x 755chmod -x ./start_chmod_checkAuthority.sh./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
 
 
 
@@ -55,15 +48,7 @@ bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git clone https://github.com/trygfmi/chmod_checkAuthority
-cd chmod_checkAuthority
-ls -l
-cat ./start_chmod_checkAuthority.sh
-chmod 755 ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rwxr-xr-x 755
-chmod -x ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit clone https://github.com/trygfmi/chmod_checkAuthoritycd chmod_checkAuthorityls -lcat ./start_chmod_checkAuthority.shchmod 755 ./start_chmod_checkAuthority.sh./start_chmod_checkAuthority.sh #rwxr-xr-x 755chmod -x ./start_chmod_checkAuthority.sh./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
 
 
 
@@ -82,14 +67,7 @@ bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/chmod_checkAuthority
-cd chmod_checkAuthority
-ls -l
-cat ./start_chmod_checkAuthority.sh
-chmod 755 ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rwxr-xr-x 755
-chmod -x ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/chmod_checkAuthoritycd chmod_checkAuthorityls -lcat ./start_chmod_checkAuthority.shchmod 755 ./start_chmod_checkAuthority.sh./start_chmod_checkAuthority.sh #rwxr-xr-x 755chmod -x ./start_chmod_checkAuthority.sh./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
 
 
 
@@ -104,7 +82,7 @@ bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
 
 
 
@@ -131,7 +109,7 @@ bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
 
 
 
@@ -143,7 +121,7 @@ bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
 
 
 
@@ -155,19 +133,12 @@ bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/chmod_checkAuthority
-cd chmod_checkAuthority
-ls -l
-cat ./start_chmod_checkAuthority.sh
-chmod 755 ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rwxr-xr-x 755
-chmod -x ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/chmod_checkAuthoritycd chmod_checkAuthorityls -lcat ./start_chmod_checkAuthority.shchmod 755 ./start_chmod_checkAuthority.sh./start_chmod_checkAuthority.sh #rwxr-xr-x 755chmod -x ./start_chmod_checkAuthority.sh./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello chmod command world<br>bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello chmod command world<br>bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre></p>
 </details>
 </details>
 
@@ -186,8 +157,7 @@ chmod -x ./start_chmod_checkAuthority.sh
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit --version</code></pre>
 
 
 
@@ -219,8 +189,7 @@ git --version</code></pre>
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install git
-echo 'alias git="/opt/local/bin/git"' &gt;&gt; ~/bashrc_folder/macports_alias</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo port install gitecho 'alias git="/opt/local/bin/git"' >> ~/bashrc_folder/macports_alias</code></pre>
 
 
 
@@ -232,20 +201,12 @@ echo 'alias git="/opt/local/bin/git"' &gt;&gt; ~/bashrc_folder/macports_alias</c
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
-git clone https://github.com/trygfmi/chmod_checkAuthority
-cd chmod_checkAuthority
-ls -l
-cat ./start_chmod_checkAuthority.sh
-chmod 755 ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rwxr-xr-x 755
-chmod -x ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_aliasgit clone https://github.com/trygfmi/chmod_checkAuthoritycd chmod_checkAuthorityls -lcat ./start_chmod_checkAuthority.shchmod 755 ./start_chmod_checkAuthority.sh./start_chmod_checkAuthority.sh #rwxr-xr-x 755chmod -x ./start_chmod_checkAuthority.sh./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello chmod command world<br>bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello chmod command world<br>bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre></p>
 </details>
 </details>
 
@@ -268,7 +229,7 @@ chmod -x ./start_chmod_checkAuthority.sh
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version</code></pre>
 
 
 
@@ -276,7 +237,7 @@ chmod -x ./start_chmod_checkAuthority.sh
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
 
 
 
@@ -304,7 +265,7 @@ chmod -x ./start_chmod_checkAuthority.sh
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git</code></pre>
 
 
 
@@ -312,7 +273,7 @@ chmod -x ./start_chmod_checkAuthority.sh
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
 
 
 
@@ -328,19 +289,12 @@ chmod -x ./start_chmod_checkAuthority.sh
 
 
 
-<pre class="wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/chmod_checkAuthority
-cd chmod_checkAuthority
-ls -l
-cat ./start_chmod_checkAuthority.sh
-chmod 755 ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rwxr-xr-x 755
-chmod -x ./start_chmod_checkAuthority.sh
-./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/chmod_checkAuthoritycd chmod_checkAuthorityls -lcat ./start_chmod_checkAuthority.shchmod 755 ./start_chmod_checkAuthority.sh./start_chmod_checkAuthority.sh #rwxr-xr-x 755chmod -x ./start_chmod_checkAuthority.sh./start_chmod_checkAuthority.sh #rw-r--r-- 644</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello chmod command world<br>bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>hello chmod command world<br>bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre></p>
 </details>
 
 
@@ -349,12 +303,12 @@ chmod -x ./start_chmod_checkAuthority.sh
 
 
 
-<pre class="wp-block-code has-cyan-bluish-gray-background-color has-background"><code>不可</code></pre>
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>不可</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>不可</code></pre>
+<p><pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>不可</code></pre></p>
 </details>
 </details>
 
@@ -373,4 +327,3 @@ chmod -x ./start_chmod_checkAuthority.sh
 
 
 <p></p>
-
