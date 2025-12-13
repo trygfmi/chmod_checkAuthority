@@ -407,4 +407,4 @@ bash: ./start_chmod_checkAuthority.sh: Permission denied</code></pre>
 
 
 
-<p>chmod 654やchmod 445など色々試してみてください</p>
+<p>ls -lで出力される-rw-r--r--の部分を数字に直すとrw-が6、r--が4、r--が4でchmod 644 start_chmod_checkAuthority.shとすると、前述の権限がstart_chmod_checkAuthority.shに付与されます<br>rが4、wが2、xが1であり全てを足す必要があると考えると分かりやすいかと思います<br>一番初めの-はファイルかディレクトリを表し、-であればファイル、dであればディレクトリです</p>
